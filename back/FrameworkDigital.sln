@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrameworkDigital.Api", "FrameworkDigital.Api\FrameworkDigital.Api.csproj", "{A0BE6B16-EB8B-44C2-8D17-12FBB9E0CD18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrameworkDigital.Domain", "FrameworkDigital.Domain\FrameworkDigital.Domain.csproj", "{1AC393B1-D4AE-49FB-AB15-E9F38492F555}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrameworkDigital.Application", "FrameworkDigital.Application\FrameworkDigital.Application.csproj", "{C2E0310B-15F0-49F6-9362-1E65537ED063}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrameworkDigital.Infra.Data", "FrameworkDigital.Infra.Data\FrameworkDigital.Infra.Data.csproj", "{526F4360-33DA-443B-8CDE-2FA8430513D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrameworkDigital.Infra.SendEmail", "FrameworkDigital.Infra.SendEmail\FrameworkDigital.Infra.SendEmail.csproj", "{44CCE0C0-37E5-4F2A-AA76-71AE5D30A3FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkDigital.Tests.UnitTests", "FrameworkDigital.Tests.UnitTests\FrameworkDigital.Tests.UnitTests.csproj", "{AB0115BF-F531-4D92-90B5-893E3CB5290D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0BE6B16-EB8B-44C2-8D17-12FBB9E0CD18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BE6B16-EB8B-44C2-8D17-12FBB9E0CD18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BE6B16-EB8B-44C2-8D17-12FBB9E0CD18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BE6B16-EB8B-44C2-8D17-12FBB9E0CD18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC393B1-D4AE-49FB-AB15-E9F38492F555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC393B1-D4AE-49FB-AB15-E9F38492F555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC393B1-D4AE-49FB-AB15-E9F38492F555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC393B1-D4AE-49FB-AB15-E9F38492F555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E0310B-15F0-49F6-9362-1E65537ED063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E0310B-15F0-49F6-9362-1E65537ED063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E0310B-15F0-49F6-9362-1E65537ED063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E0310B-15F0-49F6-9362-1E65537ED063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{526F4360-33DA-443B-8CDE-2FA8430513D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{526F4360-33DA-443B-8CDE-2FA8430513D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{526F4360-33DA-443B-8CDE-2FA8430513D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{526F4360-33DA-443B-8CDE-2FA8430513D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44CCE0C0-37E5-4F2A-AA76-71AE5D30A3FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44CCE0C0-37E5-4F2A-AA76-71AE5D30A3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44CCE0C0-37E5-4F2A-AA76-71AE5D30A3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44CCE0C0-37E5-4F2A-AA76-71AE5D30A3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB0115BF-F531-4D92-90B5-893E3CB5290D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0115BF-F531-4D92-90B5-893E3CB5290D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0115BF-F531-4D92-90B5-893E3CB5290D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0115BF-F531-4D92-90B5-893E3CB5290D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F2CC0B3-9B4D-4F31-AAA4-EFEEED7A4E9D}
+	EndGlobalSection
+EndGlobal
