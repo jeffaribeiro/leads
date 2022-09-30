@@ -10,7 +10,7 @@
 
 ## Instruções
 
-Havendo o SQL Server instalado na máquina, basta executar a aplicação no Visual Studio.
-As migrations para criação da estrutura de tabelas é executado no startup da API.
-Na pasta "sql", temos um script para carga inicial de 3 registros de Lead.
-Basta executá-los e utilizar a API.
+Havendo o SQL Server instalado na máquina, basta executar a aplicação no Visual Studio. <br />
+As migrations para criação da estrutura de tabelas é executado no startup da API. <br />
+Na pasta "sql", temos um script para carga inicial de 3 registros de Lead. <br />
+Basta executá-los e utilizar a API. <br />
